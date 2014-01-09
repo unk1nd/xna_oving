@@ -2,7 +2,15 @@
 // programeringstest 
 // Mikael Bendiksen
 //
-
+/*
+    Identity Matrix
+    Scale Matrix
+    Rotation Matrix
+    Orbit Matrix
+    Translate Matrix
+    
+    effect.World = I*S*R*O*T;
+*/
 
 using System;
 using System.Collections.Generic;
